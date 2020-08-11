@@ -1,0 +1,94 @@
+body{
+	background-color: #ccc;
+	color: #222;
+	font-family: arial;
+}
+.cont{
+	max-width: 1200px;
+	min-height: 200px
+	margin: 0 auto;
+	background-color:#fff;
+}
+.cont2 h2{
+font-size: 3vw;
+}
+.my-panel{
+	float: left;
+	width: 30%;
+	padding: 20px;
+}
+.my-info{
+	width: 45%;
+	float: left;
+
+}
+.one{
+	background-color: green;
+	min-height: 100px;
+	padding: 1.66%;
+	
+	
+}
+.two{
+	background-color: red;
+	min-height: 100px;
+	padding: 1.66%;
+	overflow: auto;
+}
+.three{
+	background-color: pink;
+	min-height: 100px;
+	padding: 1.66%;
+	overflow: auto;
+}
+.four{
+	background-color: blue;
+	min-height: 100px;
+	padding: 1.66%;
+	overflow: auto;
+}
+	
+}
+.five{
+	background-color: brown;
+	min-height: 100px;
+	padding: 1.66%;
+	overflow: auto;
+}
+.five img{
+width: 55%;
+}
+.six{
+	background-color: orange;
+	min-height: 100px;
+	padding: 2.5%;
+	float: left;
+}
+.seven{
+	background-color: cyan;
+	min-height: 100px;
+	padding: 20px;
+	overflow: auto;
+}
+.eight{
+	background-color: black;
+	min-height: 100%;
+	padding: 20px;
+   
+	
+	
+}
+@media screen and (max-width: 800px)
+{
+	my-info{
+		width: 98%;
+		padding: 1%;
+	}
+}
+@media screen and (max-width: 800px)
+{
+	my-panel{
+		width: 98%;
+		padding: 1%;
+	}
+}
