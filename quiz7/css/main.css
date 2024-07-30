@@ -2,7 +2,7 @@
 body, html {
   height: 100%;
   font-family: Arial, Helvetica,sans-serif;
-  color: black;
+  color: red;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAv-GLmbWMsrlgHd_TxjqXdmBm3jAAE_vsew&usqp=CAU");
   height: 100%;background-position: center;
   background-repeat: no-repeat;
@@ -28,14 +28,13 @@ header nav li{
 
 
 header nav ul li a{
-  color: #ccc:;
+  color: #cc8888;
   padding: 20px;
-  float:left;
+  float: left;
   font-size:20px;
-  text-decoration: none;
-
-
+  
 }
+
 footer{
   font-size: 12px;
   text-align: center;
@@ -64,8 +63,9 @@ header nav ul{
   min-height: 200px;
   padding: 40px;
   margin: 0 auto;
-  image
+  
 }
+
 .container h1{
   padding: 0;
   margin: 0;
